@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{271C6D5B-0849-4A6A-AEDC-78A10ECFA204}|StudentManagementWebApp\\StudentManagementWebApp.csproj|f:\\ng\\mvc\\mainproject\\studentmanagementserver\\studentmanagementwebapp\\studentmanagementwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271C6D5B-0849-4A6A-AEDC-78A10ECFA204}|StudentManagementWebApp\\StudentManagementWebApp.csproj|solutionrelative:studentmanagementwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271C6D5B-0849-4A6A-AEDC-78A10ECFA204}|StudentManagementWebApp\\StudentManagementWebApp.csproj|f:\\ng\\mvc\\mainproject\\studentmanagementserver\\studentmanagementwebapp\\studentmanagementwebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271C6D5B-0849-4A6A-AEDC-78A10ECFA204}|StudentManagementWebApp\\StudentManagementWebApp.csproj|solutionrelative:studentmanagementwebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271C6D5B-0849-4A6A-AEDC-78A10ECFA204}|StudentManagementWebApp\\StudentManagementWebApp.csproj|f:\\ng\\mvc\\mainproject\\studentmanagementserver\\studentmanagementwebapp\\studentmanagementwebapp\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271C6D5B-0849-4A6A-AEDC-78A10ECFA204}|StudentManagementWebApp\\StudentManagementWebApp.csproj|solutionrelative:studentmanagementwebapp\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271C6D5B-0849-4A6A-AEDC-78A10ECFA204}|StudentManagementWebApp\\StudentManagementWebApp.csproj|f:\\ng\\mvc\\mainproject\\studentmanagementserver\\studentmanagementwebapp\\studentmanagementwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271C6D5B-0849-4A6A-AEDC-78A10ECFA204}|StudentManagementWebApp\\StudentManagementWebApp.csproj|solutionrelative:studentmanagementwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\StudentManagementWebApp\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "StudentManagementWebApp\\Controllers\\SecurityController.cs",
+              "ToolTip": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\StudentManagementWebApp\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "StudentManagementWebApp\\Controllers\\SecurityController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:08:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\StudentManagementWebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudentManagementWebApp\\Models\\User.cs",
+              "ToolTip": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\StudentManagementWebApp\\Models\\User.cs",
+              "RelativeToolTip": "StudentManagementWebApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:35:17.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\StudentManagementWebApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementWebApp\\Models\\Student.cs",
+              "ToolTip": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\StudentManagementWebApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementWebApp\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T04:43:35.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\StudentManagementWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\ng\\MVC\\MainProject\\StudentManagementServer\\StudentManagementWebApp\\StudentManagementWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:49:25.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
